@@ -4,10 +4,12 @@
 
 # 🎬 Awesome Media Player & Video Streaming
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Follow on GitHub](https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=social)](https://github.com/ishandutta2007)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 **The Definitive Directory of Media Players, Personal Media Servers, Self-Hosted Streaming Engines, and Video Playback Frameworks.**
 
@@ -23,6 +25,8 @@ A meticulously curated index of category-defining **SaaS platforms**, **commerci
   - [Top FOSS Repositories Ranked by GitHub Stars](#top-foss-repositories-ranked-by-github-stars)
 - [🛠️ Architectural Blueprints & Stacks](#️-architectural-blueprints--stacks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer & License](#️-disclaimer--license)
 
 ---
@@ -100,6 +104,25 @@ We welcome contributions from the developer and media enthusiast community!
    - Include specific pricing and exact free tier limits for SaaS/commercial tools.
    - Maintain descending sort orders based on the defined metrics.
 4. 🚀 **Submit a Pull Request** with a concise description of the software and why it benefits the streaming community.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and supporting this curated resource! If you find this directory valuable for your media setup, streaming projects, or personal homelab, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** new open-source projects or SaaS updates.
+- 📢 **Share with friends and communities** on Reddit, Twitter/X, Discord, or forums.
+- ☕ **Buy me a coffee / Sponsor the project**: Contributions help maintain and expand our open curated lists:  
+  [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Media-Player-Video-Streaming&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Media-Player-Video-Streaming&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Media-Player-Video-Streaming&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Media-Player-Video-Streaming&type=date&legend=top-left)
 
 ---
 
