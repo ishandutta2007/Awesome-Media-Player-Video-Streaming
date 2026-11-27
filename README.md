@@ -22,7 +22,7 @@ A meticulously curated index of category-defining **SaaS platforms**, **commerci
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [💼 Commercial & SaaS Platforms](#-commercial--saas-platforms)
 - [💻 Open-Source Media Players & Streaming Servers](#-open-source-media-players--streaming-servers)
-  - [Top FOSS Repositories Ranked by GitHub Stars](#top-foss-repositories-ranked-by-github-stars)
+  - [Top FOSS Repositories Ranked by GitHub_Stars](#top-foss-repositories-ranked-by-github-stars)
 - [🛠️ Architectural Blueprints & Stacks](#️-architectural-blueprints--stacks)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [💖 Support & Sponsorship](#-support--sponsorship)
@@ -57,11 +57,11 @@ The table below outlines leading proprietary platforms and consumer video stream
 
 ## 💻 Open-Source Media Players & Streaming Servers
 
-### Top FOSS Repositories Ranked by GitHub Stars
+### Top FOSS Repositories Ranked by GitHub_Stars
 
-Every repository is ranked in descending order by live star count, featuring an official social star badge directly hyperlinked to that repository's stargazers page.
+Every repository is ranked in descending order by live Stars_Count, featuring an official social Stars_Badge directly hyperlinked to that repository's stargazers page.
 
-| 🌟 Open-Source Repository | ⭐ GitHub Star Count | 💻 Primary Stack | 📖 Description & Architecture |
+| 🌟 Open-Source Repository | ⭐ GitHub Stars_Count | 💻 Primary Stack | 📖 Description & Architecture |
 | :--- | :--- | :--- | :--- |
 | **[Jellyfin](https://github.com/jellyfin/jellyfin)** | [![Jellyfin Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers) | C# / .NET / Web | Fully free, 100% open-source software media system with zero premium tiers, telemetry, or paywalls. Serves as the modern self-hosted alternative to Plex and Emby. |
 | **[IINA](https://github.com/iina/iina)** | [![IINA Stars](https://img.shields.io/github/stars/iina/iina?style=social&color=white)](https://github.com/iina/iina/stargazers) | Swift / Cocoa / mpv | The modern media player for macOS, crafted with a native Swift interface, Picture-in-Picture, Touch Bar support, YouTube-DL integration, and mpv playback core. |
@@ -100,7 +100,7 @@ We welcome contributions from the developer and media enthusiast community!
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a dedicated branch** (`git checkout -b feature/add-new-player`).
 3. 📝 **Add or update entries** following the established markdown table schema:
-   - Provide verified GitHub star badges for open-source repos.
+   - Provide verified GitHub Stars_Badges for open-source repos.
    - Include specific pricing and exact free tier limits for SaaS/commercial tools.
    - Maintain descending sort orders based on the defined metrics.
 4. 🚀 **Submit a Pull Request** with a concise description of the software and why it benefits the streaming community.
