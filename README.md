@@ -1,6 +1,6 @@
 # Awesome-Media-Player-Video-Streaming
 
-# Top Media Player & Video Streaming Ecosystem
+## Top Media Player & Video Streaming Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Personal Media Servers, Local Playback & Self-Hosted Streaming*  
